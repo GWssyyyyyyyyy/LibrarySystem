@@ -1,0 +1,15 @@
+C:\Users\郭雨琦\LibrarySystem\bin\Debug\net9.0\LibrarySystem.exe
+C:\Users\郭雨琦\LibrarySystem\bin\Debug\net9.0\LibrarySystem.deps.json
+C:\Users\郭雨琦\LibrarySystem\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+C:\Users\郭雨琦\LibrarySystem\bin\Debug\net9.0\LibrarySystem.dll
+C:\Users\郭雨琦\LibrarySystem\bin\Debug\net9.0\LibrarySystem.pdb
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.dll
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\refint\LibrarySystem.dll
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.pdb
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\ref\LibrarySystem.dll
+C:\Users\郭雨琦\LibrarySystem\obj\Debug\net9.0\LibrarySystem.sourcelink.json
